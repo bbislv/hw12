@@ -5,7 +5,7 @@ public class Main {
 
         Book book1 = new Book("War and Peace", 1867, author1);
 
-        System.out.println(aut hor1);
+        System.out.println(author1);
 
         System.out.println(book1);
     }
